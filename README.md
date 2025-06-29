@@ -1,6 +1,6 @@
 # ☕ Coffee Shop Analysis Dashboard
 
-![Dashboard](./DASHBOARD.png)
+![Dashboard](./Dashboard_IMG.png)
 
 ## 📊 Project Overview
 
